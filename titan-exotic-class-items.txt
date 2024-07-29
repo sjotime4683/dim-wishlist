@@ -1,0 +1,107 @@
+//title: Titan Exotic Class Items 
+
+
+// Abeyant
+//notes: Abeyant is generally bad
+dimwishlist:item=-266021826&perks=3573490510,3573490501
+dimwishlist:item=-266021826&perks=3573490510,3573490500
+dimwishlist:item=-266021826&perks=3573490510,3573490504
+dimwishlist:item=-266021826&perks=3573490510,3573490507
+dimwishlist:item=-266021826&perks=3573490510,1476923955
+dimwishlist:item=-266021826&perks=3573490510,1476923956
+dimwishlist:item=-266021826&perks=3573490510,1476923957
+dimwishlist:item=266021826&perks=3573490510,3573490506#notes:Abeyant and Horn is actually a very interesting combination. They synergize really well for a barricade/suspend build paired with Facet of Hope. Definitely a keeper.
+
+
+// Assassin
+//notes: Assassin is an odd one for titan. There are some merits, because Titans do not have another way to become invisible. However, many of the other combinations are much more build worthy.
+//dimwishlist:item=266021826&perks=1476923952,3573490501#notes:Assassin + Alpha Lupi
+//dimwishlist:item=266021826&perks=1476923952,3573490500#notes:Assassin + Armamentarium
+//dimwishlist:item=266021826&perks=1476923952,3573490504#notes:Assassin + Contact
+//dimwishlist:item=266021826&perks=1476923952,3573490507#notes:Assassin + Scars
+//dimwishlist:item=266021826&perks=1476923952,1476923955#notes:Assassin + Star-eater
+dimwishlist:item=266021826&perks=1476923952,1476923956#notes:Assassin and Synthoceps while an odd combo could be really useful and/or interesting in higher-end content. Perhaps GMs?
+
+
+// Bear
+//notes: Bear is in general bad.
+dimwishlist:item=-266021826&perks=3573490505,3573490501
+dimwishlist:item=-266021826&perks=3573490505,3573490500
+dimwishlist:item=-266021826&perks=3573490505,3573490504
+dimwishlist:item=-266021826&perks=3573490505,3573490506
+dimwishlist:item=-266021826&perks=3573490505,3573490507
+dimwishlist:item=-266021826&perks=3573490505,1476923955
+dimwishlist:item=-266021826&perks=3573490505,1476923956
+dimwishlist:item=-266021826&perks=3573490505,1476923957
+
+
+// Eternal Warrior
+//notes: Eternal Warrior on paper seems alright. You can achieve slightly worse Weapon Surges with mods on boots. Generally speaking though, this is not a good use of a perk.
+dimwishlist:item=-266021826&perks=3573490511,3573490501
+dimwishlist:item=-266021826&perks=3573490511,3573490500
+dimwishlist:item=-266021826&perks=3573490511,3573490504
+dimwishlist:item=-266021826&perks=3573490511,3573490506
+dimwishlist:item=-266021826&perks=3573490511,3573490507
+dimwishlist:item=-266021826&perks=3573490511,1476923956
+dimwishlist:item=-266021826&perks=3573490511,1476923957
+dimwishlist:item=266021826&perks=3573490511,1476923955#notes:Eternal Warrior and Star-eater could be a top-tier DPS option. Pairing bonus damage after a super with a matching weapon? Twilight Arsenal + Edge Transit? Cloudstrike + Thundercrash?
+
+
+// Hoarfrost
+//notes: Hoarfrost is in general bad.
+dimwishlist:item=-266021826&perks=3573490508,3573490501
+dimwishlist:item=-266021826&perks=3573490508,3573490500
+dimwishlist:item=-266021826&perks=3573490508,3573490504
+dimwishlist:item=-266021826&perks=3573490508,3573490506
+dimwishlist:item=-266021826&perks=3573490508,3573490507
+dimwishlist:item=-266021826&perks=3573490508,1476923955
+dimwishlist:item=-266021826&perks=3573490508,1476923956
+dimwishlist:item=-266021826&perks=3573490508,1476923957
+
+
+// Inmost Light
+//notes: 
+dimwishlist:item=266021826&perks=1476923953,3573490500#notes:Grenade spam with Facet of Mending?
+dimwishlist:item=266021826&perks=1476923953,3573490504#notes:I would not call this an S-tier pick, but it will do the job.
+dimwishlist:item=266021826&perks=1476923953,3573490507#notes:Inmost Light and Scars has been an unexpected winner to me. Matching weapon damage and super means getting Restoration for you and close allies. (Graviton Lance/Commemoration and Twilight Arsenal? Aberrant Action/Fixed Odds + Hammers? The Call + Bladefury?)
+dimwishlist:item=266021826&perks=1476923953,1476923955#notes:Inmost Light and Star-eater. Sign me up. Go around destroying stuff to super charge Thundercrash or Twilight Arsenal. Sounds good to me!
+dimwishlist:item=266021826&perks=1476923953,1476923956#notes:Inmost Light and Synthoceps. Sign me up. This is going to be a good roll for most Titan things. 
+
+
+// Ophidian
+dimwishlist:item=266021826&perks=1476923954,3573490500#notes:My preferred PVP roll. Sure others might be okay, but extra grenades are always nice even though Titan grenades are not super great.
+//dimwishlist:item=266021826&perks=1476923954,3573490504#notes:Ophidian + Contact
+//dimwishlist:item=266021826&perks=1476923954,3573490507#notes:Ophidian + Scars
+//dimwishlist:item=266021826&perks=1476923954,1476923955#notes:Ophidian + Star-eater
+//dimwishlist:item=266021826&perks=1476923954,1476923956#notes:Ophidian + Synthoceps
+
+
+// Severance
+dimwishlist:item=266021826&perks=3573490509,3573490504#notes:Explosions. Everywhere. Pair this with a Consecration build, and you should have explosions everywhere. Likely will not perform in end game content.
+//dimwishlist:item=266021826&perks=3573490509,3573490500#notes:Severance + Armamentarium
+//dimwishlist:item=266021826&perks=3573490509,3573490507#notes:Severance + Scars
+//dimwishlist:item=266021826&perks=3573490509,1476923955#notes:Severance + Star-eater
+dimwishlist:item=266021826&perks=3573490509,1476923956#notes:Another heavy melee-based class item. This should do nicely.
+
+
+// Alpha Lupi
+//notes: The Exotic chest piece does not get much usage, and such the discount store version on the Exotic class item will not either.
+dimwishlist:item=-266021826&perks=3573490509,3573490501
+dimwishlist:item=-266021826&perks=1476923954,3573490501
+dimwishlist:item=-266021826&perks=1476923953,3573490501
+
+
+// Horn
+//notes: Horn is generally really bad, and does not synergize well with most Prismatic builds.
+dimwishlist:item=-266021826&perks=1476923954,3573490506#notes:Ophidian + Horn
+dimwishlist:item=-266021826&perks=3573490509,3573490506#notes:Severance + Horn
+dimwishlist:item=-266021826&perks=1476923953,3573490506#notes:Inmost Light + Horn
+dimwishlist:item=-266021826&perks=1476923952,3573490506#notes:Assassin + Horn
+
+
+// Verity
+//notes: Prismatic Titan grenades are very meh. So you do not gain much here.
+dimwishlist:item=266021826&perks=1476923952,1476923957#notes:Assassin + Verity
+dimwishlist:item=266021826&perks=1476923953,1476923957#notes:Inmost Light + Verity
+dimwishlist:item=266021826&perks=1476923954,1476923957#notes:Ophidian + Verity
+dimwishlist:item=266021826&perks=3573490509,1476923957#notes:Severance + Verity
