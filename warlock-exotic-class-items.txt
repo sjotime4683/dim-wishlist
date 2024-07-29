@@ -1,4 +1,5 @@
-// title:Warlock Exotic Class Items
+title: Warlocks Exotic Class Items
+description: List of Exotic class item and rolls for Warlocks. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.
 
 // Assassin
 //dimwishlist:item=-2273643087&perks=1476923952,1476923955#notes:Assassin + Star-eater
