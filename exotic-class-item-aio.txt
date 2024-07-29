@@ -1,3 +1,6 @@
+// ********************************************************************************************************************************
+// This file is auto-generated based on a GitHub workflow. Any and all changes should be made to the individual class item files.  
+// ********************************************************************************************************************************
 title: Exotic Class Items
 description: List of Exotic class item and rolls for all classes. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.
 
