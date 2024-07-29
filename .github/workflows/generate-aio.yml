@@ -33,7 +33,7 @@ jobs:
       - name: Run a one-line script
         run: |
           echo 'title: Titan Exotic Class Items' > exotic-class-item-aio.txt
-          echo 'description: List of Exotic class item and rolls for Titans. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.' > exotic-class-item-aio.txt
+          echo 'description: List of Exotic class item and rolls for Titans. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.' >> exotic-class-item-aio.txt
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
