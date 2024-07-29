@@ -32,12 +32,17 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: |
+          echo '// ********************************************************************************************************************************' >> exotic-class-item-aio.txt
+          echo '// This file is auto-generated based on a GitHub workflow. Any and all changes should be made to the individual class item files.
+          echo '// ********************************************************************************************************************************' >> exotic-class-item-aio.txt
           echo 'title: Titan Exotic Class Items' > exotic-class-item-aio.txt
           echo 'description: List of Exotic class item and rolls for Titans. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.' >> exotic-class-item-aio.txt
+          
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
+          echo '' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
           echo '// Hunter                                                      ' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
@@ -45,6 +50,7 @@ jobs:
 
       - name: Run a multi-line script
         run: |
+          echo '' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
           echo '// Titan                                                       ' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
@@ -52,8 +58,9 @@ jobs:
 
       - name: Run a multi-line script
         run: |
+          echo '' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
-          echo '// Warlocl                                                     ' >> exotic-class-item-aio.txt
+          echo '// Warlock                                                     ' >> exotic-class-item-aio.txt
           echo '// ------------------------------------------------------------' >> exotic-class-item-aio.txt
           tail -n +3 warlock-exotic-class-items.txt >> exotic-class-item-aio.txt
         
