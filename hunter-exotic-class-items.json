@@ -1,0 +1,84 @@
+{
+    "Perks": [
+        {
+            "Name": "Assassin",
+            "Id": "1476923952",
+            "Column": 1
+        },
+        {
+            "Name": "Caliban",
+            "Id": "3751917996",
+            "Column": 1
+        },
+        {
+            "Name": "Dragon",
+            "Id": "3751917999",
+            "Column": 1
+        },
+        {
+            "Name": "Foetracer",
+            "Id": "3751917997",
+            "Column": 1
+        },
+        {
+            "Name": "Galanor",
+            "Id": "3751917998",
+            "Column": 1
+        },
+        {
+            "Name": "Inmost Light",
+            "Id": "1476923953",
+            "Column": 1
+        },
+        {
+            "Name": "Ophidian",
+            "Id": "1476923954",
+            "Column": 1
+        },
+        {
+            "Name": "Renewal",
+            "Id": "3751917995",
+            "Column": 1
+        },
+        {
+            "Name": "Coyote",
+            "Id": "3751917990",
+            "Column": 2
+        },
+        {
+            "Name": "Cyrtarachne",
+            "Id": "3751917994",
+            "Column": 2
+        },
+        {
+            "Name": "Gyrfalcon",
+            "Id": "3751917993",
+            "Column": 2
+        },
+        {
+            "Name": "Liar",
+            "Id": "3751917992",
+            "Column": 2
+        },
+        {
+            "Name": "Star-eater",
+            "Id": "1476923955",
+            "Column": 2
+        },
+        {
+            "Name": "Synthoceps",
+            "Id": "1476923956",
+            "Column": 2
+        },
+        {
+            "Name": "Verity",
+            "Id": "1476923957",
+            "Column": 2
+        },
+        {
+            "Name": "Wormhusk",
+            "Id": "3751917991",
+            "Column": 2
+        }
+    ]
+}
