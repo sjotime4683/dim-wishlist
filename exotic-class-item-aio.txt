@@ -1,5 +1,6 @@
-title: Titan Exotic Class Items
-description: List of Exotic class item and rolls for Titans. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.
+title: Exotic Class Items
+description: List of Exotic class item and rolls for all classes. List may or may not be comprehensive due to some rolls being "commented out". General guidance is to *not* delete rolls that are on the "trashlist", but to use the Archive feature in DIM. Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.
+
 // ------------------------------------------------------------
 // Hunter                                                      
 // ------------------------------------------------------------
@@ -97,6 +98,7 @@ dimwishlist:item=-2809120022&perks=3751917995,1476923955
 dimwishlist:item=-2809120022&perks=3751917995,1476923956
 dimwishlist:item=-2809120022&perks=3751917995,1476923957
 dimwishlist:item=-2809120022&perks=3751917995,3751917991
+
 // ------------------------------------------------------------
 // Titan                                                       
 // ------------------------------------------------------------
@@ -205,8 +207,9 @@ dimwishlist:item=266021826&perks=1476923952,1476923957#notes:Assassin + Verity
 dimwishlist:item=266021826&perks=1476923953,1476923957#notes:Inmost Light + Verity
 dimwishlist:item=266021826&perks=1476923954,1476923957#notes:Ophidian + Verity
 dimwishlist:item=266021826&perks=3573490509,1476923957#notes:Severance + Verity
+
 // ------------------------------------------------------------
-// Warlocl                                                     
+// Warlock                                                     
 // ------------------------------------------------------------
 
 // Assassin
