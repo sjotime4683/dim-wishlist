@@ -1,4 +1,5 @@
-//title: Titan Exotic Class Items 
+title: Titan Exotic Class Items
+description: List of Exotic class item and rolls for Titans. List may or may not be comprehensive due to some rolls being "commented out". Feel free to leave a PR for any changes that may or may not be accepted and merged. Thanks to Datto, Mavics, AboveDestiny, gmeiners, ATP, and Xemo for helping me form my opinions.
 
 
 // Abeyant
