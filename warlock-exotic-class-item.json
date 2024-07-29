@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Assassin",
+    "Id": "1476923952",
+    "Column": 1
+  },
+  {
+    "Name": "Star-eater",
+    "Id": "1476923955",
+    "Column": 2
+  },
+  {
+    "Name": "Synthoceps",
+    "Id": "1476923956",
+    "Column": 2
+  },
+  {
+    "Name": "Verity",
+    "Id": "1476923957",
+    "Column": 2
+  },
+  {
+    "Name": "Vesper",
+    "Id": "183430251",
+    "Column": 2
+  },
+  {
+    "Name": "Harmony",
+    "Id": "183430254",
+    "Column": 2
+  },
+  {
+    "Name": "Starfire",
+    "Id": "183430249",
+    "Column": 2
+  },
+  {
+    "Name": "Swarm",
+    "Id": "183430246",
+    "Column": 2
+  },
+  {
+    "Name": "Claw",
+    "Id": "183430247",
+    "Column": 2
+  },
+  {
+    "Name": "Inmost Light",
+    "Id": "1476923953",
+    "Column": 1
+  },
+  {
+    "Name": "Ophidian",
+    "Id": "1476923954",
+    "Column": 1
+  },
+  {
+    "Name": "Stag",
+    "Id": "183430248",
+    "Column": 1
+  },
+  {
+    "Name": "Secant Filaments",
+    "Id": "183430255",
+    "Column": 1
+  },
+  {
+    "Name": "Necrotic",
+    "Id": "183430252",
+    "Column": 1
+  },
+  {
+    "Name": "Osmiomancy",
+    "Id": "183430253",
+    "Column": 1
+  },
+  {
+    "Name": "Apotheosis",
+    "Id": "183430250",
+    "Column": 1
+  }
+]
